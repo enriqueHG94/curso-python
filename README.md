@@ -7,3 +7,6 @@ El lenguaje utilizado ha sido Python
 -Funciones 
 -iterar (for and while)
 -clases
+-ETL
+-Modelo predictivo (Facebook)
+- primera parte space X
