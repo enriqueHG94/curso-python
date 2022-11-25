@@ -8,7 +8,10 @@ El lenguaje utilizado ha sido Python
 - Iterar (for and while)
 - Clases
 - ETL
+- Pandas
+- Numpy
 - Modelo predictivo (Facebook)
 - primera parte SpaceX
 - Segunda parte SpaceX
 - Tercera parte SpaceX
+- Cuarta parte SpaceX
