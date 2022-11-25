@@ -10,3 +10,5 @@ El lenguaje utilizado ha sido Python
 - ETL
 - Modelo predictivo (Facebook)
 - primera parte SpaceX
+- Segunda parte SpaceX
+- Tercera parte SpaceX
