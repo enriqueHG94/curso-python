@@ -11,7 +11,7 @@
 - Pandas
 - Numpy
 - Modelo predictivo (Facebook)
-- primera parte SpaceX
-- Segunda parte SpaceX
-- Tercera parte SpaceX
-- Cuarta parte SpaceX
+- primera parte SpaceX (Obtencion de datos)
+- Segunda parte SpaceX (Análisis de datos exploratorio)
+- Tercera parte SpaceX (Análisis de datos utilizando SQL)
+- Cuarta parte SpaceX (Visualización de datos)
